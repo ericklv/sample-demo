@@ -2,7 +2,7 @@
 
 Se buscó crear un chat room muy similar a la funcionalidad basica de whatsapp
 permitiendo a los usuarios chatear en una sala teniendo un usuario y pudiendo
-diferenciar entre usuarios dentro del chat grupal, a su vez se añadio un chat privado
+diferenciar entre usuarios dentro del chat grupal, a su vez se añadió un chat grupal
 entre usuarios logeados.\
 Para las notificaciones push empleamos STOMP, tambien se pudo emplear RabbitMQ pero al ser una demo considere que sera muy tedioso de configurar.
 
